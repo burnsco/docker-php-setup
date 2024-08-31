@@ -44,4 +44,3 @@ while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
 
 // Close the database connection
 $db_handle = null;
-?>

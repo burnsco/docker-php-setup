@@ -15,4 +15,3 @@ class HelloWorldTest extends PHPUnit\Framework\TestCase
     $this->assertEquals("Hello, Docker!", $output);
  }
 }
-?>
