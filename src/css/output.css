@@ -597,6 +597,26 @@ video {
   display: table;
 }
 
+.border-x-4 {
+  border-left-width: 4px;
+  border-right-width: 4px;
+}
+
+.border-blue-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(191 219 254 / var(--tw-border-opacity));
+}
+
+.border-x-black {
+  --tw-border-opacity: 1;
+  border-left-color: rgb(0 0 0 / var(--tw-border-opacity));
+  border-right-color: rgb(0 0 0 / var(--tw-border-opacity));
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
 .italic {
   font-style: italic;
 }
