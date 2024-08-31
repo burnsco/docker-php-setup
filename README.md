@@ -1,3 +1,3 @@
-# docker-php-sample
+# docker-php-setup
 
-A simple PHP web application example for [Docker's PHP Language Guide](https://docs.docker.com/language/php/).
+A basic docker compose setup for local development.  Adding ci/cd soon!
